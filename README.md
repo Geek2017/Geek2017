@@ -1,5 +1,14 @@
 # 💫 About Me:
-🏴 I’m currently working on: Integrating advanced ASR (Automatic Speech Recognition) for AI-driven interactions in Lycan Motorcycles, enhancing Generative AI tools for public sector and strategic digitalization at Upward Solutions, and utilizing LLMs (Large Language Models) for efficient, automated customer service and diagnostics in AutoServed.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on: Cutting-edge projects in ASR, Generative AI for strategic PR, and LLM-driven solutions for the automotive industry.<br><br>💛 I’m looking for help with: Scaling infrastructure for real-time ASR in electric vehicles, refining Generative AI for predictive public sectors insights, and enhancing LLM capabilities to improve customer experience in automotive services.<br><br>🌱 I’m currently learning: The latest in ASR technology, Generative AI applications for digitalization, and LLM advancements for automated service diagnostics.<br><br>💬 Ask me about: AI applications in electric vehicles, the role of Generative AI in public sectors, or how LLMs can transform automotive service.<br><br>⚡ Fun fact: Passionate about leveraging distinct AI capabilities to push the boundaries of innovation in electric vehicles, public sectors, and automotive diagnostics.
+🏴 I’m currently working on a Cutting-edge projects based on FM-LLM and NLP to generate agentic AI from scratch base on Individual data set using RAG or CAG
+
+🧑‍🤝‍🧑 Looking to collaborate on: Cutting-edge projects using Agentic Generative AI for strategic benifits of humanity 
+
+💛 Need help with: Scaling infrastructure for real-time ASR, refining Generative AI for predictive productivity insights, and enhancing LLM capabilities to improve operational delivery.
+
+
+💬 Ask me about: AI applications in electric vehicles, the role of Generative AI in public sectors, or how LLMs can transform automotive service.
+
+⚡ Fun fact: Passionate about leveraging distinct AI capabilities to push the boundaries of innovation beyond limit in EV's, Gov. & Auto Tech.
 
 
 ## 🌐 Socials:
