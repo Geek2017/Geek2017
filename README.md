@@ -1,5 +1,12 @@
-# 💫 About Me: Jayem Grefaldo from PH
-🏴 I’m currently working on a Cutting-edge projects based on FM-LLM and NLP to generate agentic AI from scratch base on Individual data set using RAG or CAG<br><br>🧑‍🤝‍🧑 Looking to collaborate on: Cutting-edge projects using Agentic Generative AI for strategic benifits of humanity<br><br>💛 Need help with: Scaling infrastructure for real-time ASR, refining Generative AI for predictive productivity insights, and enhancing LLM capabilities to improve operational delivery.<br><br>💬 Ask me about: AI applications in electric vehicles, the role of Generative AI in public sectors, or how LLMs can transform automotive service.<br><br>⚡ Fun fact: Passionate about leveraging distinct AI capabilities to push the boundaries of innovation beyond limit in EV's, Gov. & Auto Tech.
+🏴 Currently pioneering cutting-edge projects leveraging FM-LLM and NLP to craft agentic AI tailored from individualized datasets using advanced RAG and CAG techniques.
+
+🧑‍🤝‍🧑 Seeking collaboration on transformative Agentic Generative AI projects aimed at strategic, impactful benefits for humanity.
+
+💛 Looking for expertise in scaling infrastructure for real-time ASR, refining Generative AI for predictive productivity analytics, and boosting LLM capabilities to significantly enhance operational performance.
+
+💬 Let's discuss AI innovations in transformative Generative AI solutions in public sectors, or how LLMs revolutionize automotive service excellence & EV's.
+
+⚡ Fun fact: Passionately driven to leverage unique AI capabilities, pushing innovation boundaries in EV, government tech, and automotive sectors beyond current limits.
 
 
 ## 🌐 Socials:
