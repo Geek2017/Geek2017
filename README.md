@@ -1,12 +1,12 @@
-🏴 Currently pioneering cutting-edge projects leveraging FM-LLM and NLP to craft agentic AI tailored from individualized datasets using advanced RAG and CAG techniques.
+🏴 Actively Driving innovation in Agentic AI systems with a core focus on real-time ASR, machine vision for local dialect language, and generative reasoning using advanced RAG/CAG pipelines. 
 
-🧑‍🤝‍🧑 Seeking collaboration on transformative Agentic Generative AI projects aimed at strategic, impactful benefits for humanity.
+🧠 Pioneering adaptive, self-improving AI agents trained on domain-specific datasets for mission-critical deployments.
 
-💛 Looking for expertise in scaling infrastructure for real-time ASR, refining Generative AI for predictive productivity analytics, and boosting LLM capabilities to significantly enhance operational performance.
+⚙️ Actively seeking collaborators and infrastructure experts to scale agentic speech cognition and vision-guided LLM orchestration for predictive analytics, autonomous workflows, and public-sector transformation.
 
-💬 Let's discuss AI innovations in transformative Generative AI solutions in public sectors, or how LLMs revolutionize automotive service excellence & EV's.
+💬 Let’s disrupt convention — explore how Agentic ASR + GenAI + Machine Vision can redefine deeptech service precision, governance workflow systems, and frontline AI operations.
 
-⚡ Fun fact: Passionately driven to leverage unique AI capabilities, pushing innovation boundaries in EV, government tech, and automotive sectors beyond current limits.
+💛 Passionate about breaching today’s limits to craft tomorrow’s intelligence.
 
 
 ## 🌐 Socials:
